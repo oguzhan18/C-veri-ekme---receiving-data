@@ -1,0 +1,13 @@
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\bin\Debug\netcoreapp3.1\veri_cekme.exe
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\bin\Debug\netcoreapp3.1\veri_cekme.deps.json
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\bin\Debug\netcoreapp3.1\veri_cekme.runtimeconfig.json
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\bin\Debug\netcoreapp3.1\veri_cekme.runtimeconfig.dev.json
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\bin\Debug\netcoreapp3.1\veri_cekme.dll
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\bin\Debug\netcoreapp3.1\veri_cekme.pdb
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\obj\Debug\netcoreapp3.1\veri_cekme.csprojAssemblyReference.cache
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\obj\Debug\netcoreapp3.1\veri_cekme.AssemblyInfoInputs.cache
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\obj\Debug\netcoreapp3.1\veri_cekme.AssemblyInfo.cs
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\obj\Debug\netcoreapp3.1\veri_cekme.csproj.CoreCompileInputs.cache
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\obj\Debug\netcoreapp3.1\veri_cekme.dll
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\obj\Debug\netcoreapp3.1\veri_cekme.pdb
+C:\Users\ÇART APP\Source\Repos\veri_cekme\veri_cekme\obj\Debug\netcoreapp3.1\veri_cekme.genruntimeconfig.cache
